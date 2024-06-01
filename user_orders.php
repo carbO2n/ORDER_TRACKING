@@ -45,8 +45,9 @@ if (!$order_query) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Orders</title>
-    <!-- Link to Metal Vengeance font -->
-    <link href="https://db.onlinewebfonts.com/c/11eae19d5201ee5e6b1c2ae903ff4ea6?family=Metal+Vengeance" rel="stylesheet">
+    
+     <!-- Font Awesome CDN Link -->
+   <link href="https://db.onlinewebfonts.com/c/11eae19d5201ee5e6b1c2ae903ff4ea6?family=Metal+Vengeance" rel="stylesheet">
     <!-- Link to your custom CSS file -->
     <link rel="stylesheet" href="css/user_orders.css">
     
